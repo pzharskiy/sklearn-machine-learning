@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 
 filepath_to_data_directory = "C:/Users/Pavel_Zharski/IdeaProjects/" \
-                             "learning/python/sklearn-machine-learning/" \
+                             "learning/python/" \
                              "sklearn-machine-learning/data/"
 # Settings to show all columns, not limit them while using head()
 pd.set_option('display.max_columns', None)

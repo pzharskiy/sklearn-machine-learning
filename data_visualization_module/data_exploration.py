@@ -1,7 +1,7 @@
 import pandas as pd
 
 filepath_to_data_directory = "C:/Users/Pavel_Zharski/IdeaProjects/" \
-                             "learning/python/sklearn-machine-learning/" \
+                             "learning/python/" \
                              "sklearn-machine-learning/data/"
 
 
